@@ -1,88 +1,100 @@
 const hogs = [
   {
-    name: 'Babe',
-    specialty: 'Being incredibly cute',
+    id: 1,
+    name: "Babe",
+    specialty: "Being incredibly cute",
     greased: false,
     weight: 2.0,
-    'highest medal achieved': 'bronze'
+    "highest medal achieved": "bronze",
   },
   {
-    name: 'Porkchop',
-    specialty: 'Making friends',
+    id: 2,
+    name: "Porkchop",
+    specialty: "Making friends",
     greased: true,
     weight: 1.6,
-    'highest medal achieved': 'silver'
+    "highest medal achieved": "silver",
   },
   {
-    name: 'Cherub',
-    specialty: 'Flying',
+    id: 3,
+    name: "Cherub",
+    specialty: "Flying",
     greased: false,
     weight: 0.7,
-    'highest medal achieved': 'gold'
+    "highest medal achieved": "gold",
   },
   {
-    name: 'Piggy smalls',
-    specialty: 'Rapping',
+    id: 4,
+    name: "Piggy Smalls",
+    specialty: "Rapping",
     greased: true,
     weight: 5.1,
-    'highest medal achieved': 'platinum'
+    "highest medal achieved": "platinum",
   },
   {
-    name: 'Trouble',
-    specialty: 'Racing',
+    id: 5,
+    name: "Trouble",
+    specialty: "Racing",
     greased: true,
     weight: 1.7,
-    'highest medal achieved': 'gold'
+    "highest medal achieved": "gold",
   },
   {
-    name: 'Piglet',
-    specialty: 'Bravery and friendship',
+    id: 6,
+    name: "Piglet",
+    specialty: "Bravery and friendship",
     greased: false,
     weight: 2.2,
-    'highest medal achieved': 'silver'
+    "highest medal achieved": "silver",
   },
   {
-    name: 'Peppa',
-    specialty: 'Being adventurous',
+    id: 7,
+    name: "Peppa",
+    specialty: "Being adventurous",
     greased: false,
     weight: 3.7,
-    'highest medal achieved': 'wood'
+    "highest medal achieved": "wood",
   },
   {
-    name: 'Truffle Shuffle',
-    specialty: 'Peeling oranges',
+    id: 8,
+    name: "Truffle Shuffle",
+    specialty: "Peeling oranges",
     greased: true,
     weight: 4.0,
-    'highest medal achieved': 'gold'
+    "highest medal achieved": "gold",
   },
   {
-    name: 'Bailey',
-    specialty: 'Finding truffles',
+    id: 9,
+    name: "Bailey",
+    specialty: "Finding truffles",
     greased: false,
     weight: 2.3,
-    'highest medal achieved': 'bronze'
+    "highest medal achieved": "bronze",
   },
   {
-    name: 'Galaxy Note',
-    specialty: 'Cuddling',
+    id: 10,
+    name: "Galaxy Note",
+    specialty: "Cuddling",
     greased: true,
     weight: 1.9,
-    'highest medal achieved': 'diamond'
+    "highest medal achieved": "diamond",
   },
   {
-    name: 'Leggo My Eggo',
-    specialty: 'Babysitting',
+    id: 11,
+    name: "Leggo My Eggo",
+    specialty: "Babysitting",
     greased: true,
     weight: 3.3,
-    'highest medal achieved': 'platinum'
+    "highest medal achieved": "platinum",
   },
   {
-    name: 'Augustus Gloop',
-    specialty: 'Making friends with ducks',
+    id: 12,
+    name: "Augustus Gloop",
+    specialty: "Making friends with ducks",
     greased: true,
     weight: 4.1,
-    'highest medal achieved': 'wood'
-  }
+    "highest medal achieved": "wood",
+  },
 ];
 
 export default hogs;
